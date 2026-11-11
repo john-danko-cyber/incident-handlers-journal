@@ -3,6 +3,8 @@
 ## Summary
 A guided course lab in which I documented a ransomware incident at a fictional U.S. health care clinic using an incident handler's journal. I recorded the entry date and number, a short description, tools used, and the 5 W's (who, what, when, where, why), plus additional notes on phishing awareness and ransom payment risk.
 
+> Part of my [Incident Response Journal](https://github.com/john-danko-cyber/incident-response-journal) (Entry 1), which collects all my Detection and Response course labs.
+
 ## My Role
 I reviewed the provided ransomware scenario and completed the first entry in the incident handler's journal template. The scenario and template were provided by the course. No live systems were investigated, and no response actions were taken.
 
